@@ -1,1 +1,11 @@
-# core-ma-king.github.io
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+
+# MA-KINGについて
+
+MA-KINGは[CoRE](https://core.scramble-robot.org/)出場のために結成された社会人チームです。
+随時HPを更新予定です。
+
+# リンク集
+Twitter(X) [https://twitter.com/ma_king_core](https://twitter.com/ma_king_core)
+GitHub [https://github.com/CoRE-MA-KING](https://github.com/CoRE-MA-KING)
+
