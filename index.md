@@ -1,4 +1,7 @@
-<link rel="icon" href="favicon.ico">
+---
+layout: default
+---
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 # MA-KINGについて
 
