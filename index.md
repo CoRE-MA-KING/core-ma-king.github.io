@@ -3,7 +3,6 @@ layout: default
 title: "MA-KING"
 
 ---
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 # MA-KINGについて
 
@@ -21,8 +20,8 @@ MA-KING(メイキング)は[CoRE](https://core.scramble-robot.org/)出場のた�
 [決勝戦](https://www.youtube.com/live/UWSe1TFjZzk?si=oNLwdvn6uPN005K1)では3-2で勝利(5試合に出場)  
 
 ## コンセプト
-まずは大会にでて動かすこと！  
-余計なことはなるべくしない！(とはいいつついろいろ盛りこんだりしましたが)
+まずは大会に出て動かすこと！  
+時間がないのは自明なので余計なことはなるべくしない！(とはいいつついろいろ盛りこんだりしましたが)
 
 ## ギャラリー
 ![](img/2024/pic1.jpg)  
