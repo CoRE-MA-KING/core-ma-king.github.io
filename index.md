@@ -9,6 +9,7 @@ title: "MA-KING"
 
 MA-KING(メイキング)は[CoRE](https://core.scramble-robot.org/)出場のために結成された社会人チームです。  
 進捗は[#CoREjp_MAKING](https://twitter.com/search?q=%23CoREjp_MAKING)や[MA-KINGツイッター](https://twitter.com/ma_king_core)にて発信しています。
+
 ![](img/2024/決勝戦第3試合序盤撃破シーン.gif)
 ![](img/ma_king_logo.jpg)
 
