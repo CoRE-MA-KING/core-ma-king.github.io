@@ -30,7 +30,7 @@ MA-KING(メイキング)は[CoRE](https://core.scramble-robot.org/)出場のた�
 ## ギャラリー
 ![](img/2024/pic1.jpg)  
 ![](img/2024/pic2.JPG)  
-
+![](img/2024/machine.png)
 
 # リンク集
 Twitter(X) [@ma_king_core](https://twitter.com/ma_king_core)  
