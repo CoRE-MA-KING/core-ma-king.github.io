@@ -20,6 +20,7 @@ MA-KING(メイキング)は[CoRE](https://core.scramble-robot.org/)出場のた�
 [大ロボーズ](https://core.scramble-robot.org/player_team/dairobos/)傘下にて決勝トーナメントに出場  
 [準決勝](https://www.youtube.com/live/S1zGDQoMSXo?si=l3i_r7DlhmGuDFUf)では2-0で勝利  
 [決勝戦](https://www.youtube.com/live/UWSe1TFjZzk?si=oNLwdvn6uPN005K1)では3-2で勝利(5試合に出場)  
+[ブログ記事](https://blog.mmaakkyyii.com/posts/post51/)
 
 ## コンセプト
 まずは大会に出て動かすこと！  
