@@ -13,6 +13,13 @@ MA-KING(メイキング)は[CoRE](https://core.scramble-robot.org/)出場のた�
 ![](img/2024/決勝戦第3試合序盤撃破シーン.gif)
 ![](img/ma_king_logo.jpg)
 
+# 2025年大会
+## 広報活動
+[MFT2024](https://makezine.jp/event/makers-mft2024/m0174/)に出展しました！  
+出展目的はこちらの[ブログ](https://blog.mmaakkyyii.com/posts/post53/)にてまとめています。
+
+![](img/2025/MFT2024/MFT_booth.jpg)
+![](img/2025/MFT2024/MFT_desk.jpg)
 
 # 2024年大会
 ## 戦績
