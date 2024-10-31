@@ -15,6 +15,10 @@ MA-KING(メイキング)は[CoRE](https://core.scramble-robot.org/)出場のた�
 
 # 2025年大会
 ## 広報活動
+### 柏の葉ロボット競技大会
+柏の葉イノベーションフェスにて行われた[柏の葉ロボット競技大会](https://prtimes.jp/main/html/rd/p/000000019.000029167.html)に参加しました。TRKさんと港アルバスJRTさんとのデモ試合を行いました。  
+![](img/2025/kashiwanoha_event1.JPG)
+
 ### MFT2024
 [MFT2024](https://makezine.jp/event/makers-mft2024/m0174/)に出展しました！  
 出展目的はこちらの[ブログ](https://blog.mmaakkyyii.com/posts/post53/)にてまとめています。  
