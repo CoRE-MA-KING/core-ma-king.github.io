@@ -22,12 +22,13 @@ MA-KING(メイキング)は[CoRE](https://core.scramble-robot.org/)出場のた�
 ### MFT2024
 [MFT2024](https://makezine.jp/event/makers-mft2024/m0174/)に出展しました！  
 出展目的はこちらの[ブログ](https://blog.mmaakkyyii.com/posts/post53/)にてまとめています。  
+展示による宣伝の効果についても[ブログ](https://blog.mmaakkyyii.com/posts/post54/)にまとめています。  
 また、出展者向け懇親会でLTがあり、そこでCoREの宣伝をしてきました。
 
 ![](img/2025/MFT2024/MFT_booth.jpg)
 
 ### [tofuConf](https://tofuconf.club/2024-08-26/we-held-the-18th-tofuconf.html) 
-小さめの会ですが、CoREの布教LTをしてきました。
+小さめのLT会ですが、「今最も熱いロボコンCoREの紹介」というタイトルでCoREの布教LTをしてきました。
 
 # 2024年大会
 ## 戦績
