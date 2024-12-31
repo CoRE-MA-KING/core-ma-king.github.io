@@ -1,0 +1,19 @@
+---
+layout: page
+title: 2024年大会
+permalink: /2024/
+---
+# 2024年大会
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UWSe1TFjZzk?si=_oQCiJWnMb3PGI3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 戦績
+2024年度大会は[総大将決定戦](https://www.youtube.com/live/vzNiVW0RnFI?si=99GYdgR8uguHoofI)では第8位  
+[大ロボーズ](https://core.scramble-robot.org/player_team/dairobos/)傘下にて決勝トーナメントに出場  
+[準決勝](https://www.youtube.com/live/S1zGDQoMSXo?si=l3i_r7DlhmGuDFUf)では2-0で勝利  
+[決勝戦](https://www.youtube.com/live/UWSe1TFjZzk?si=oNLwdvn6uPN005K1)では3-2で勝利(5試合に出場)  
+[ブログ記事](https://blog.mmaakkyyii.com/posts/post51/)
+
+## コンセプト
+まずは大会に出て動かすこと！  
+時間がないのは自明なので余計なことはなるべくしない！(とはいいつついろいろ盛りこんだりしましたが)
+
+![](img/2024/machine2024.gif)  

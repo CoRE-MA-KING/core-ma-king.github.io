@@ -1,4 +1,9 @@
-# ギャラリーのページ
+---
+layout: page
+title: ギャラリー
+permalink: /gallery/
+---
+
 ## 2025年大会
 ### 柏の葉ロボット競技大会
 ![](img/2025/kashiwanoha_event2.JPG)
