@@ -2,7 +2,10 @@
 layout: page
 title: 2024年大会
 permalink: /2024/
+background: '/assets/images/img2024.jpg'
 ---
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
 # 大会動画
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UWSe1TFjZzk?si=_oQCiJWnMb3PGI3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -17,4 +20,4 @@ permalink: /2024/
 まずは大会に出て動かすこと！  
 時間がないのは自明なので余計なことはなるべくしない！(とはいいつついろいろ盛りこんだりしましたが)
 
-![](img/2024/machine2024.gif)  
+![](img/2024/machine2024.gif){:class="responsive-image"}  

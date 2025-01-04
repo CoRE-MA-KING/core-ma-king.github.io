@@ -21,17 +21,25 @@
 title: MA-KING
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  CoRE-1に参加する社会人チームMA-KING(メイキング)です。ご連絡があれば、ツイッターまでお願いします。
+  CoRE-1に参加する社会人チームMA-KING(メイキング)です。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://core-ma-king.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ma_king_core
 github_username:  CoRE-MA-KING
 
 # Build settings
+theme: jekyll-theme-clean-blog
+#theme: minima
+#plugins:
+#  - jekyll-feed
 
-theme: minima
-plugins:
-  - jekyll-feed
+menu:
+  - title: "2024年度"
+    url: "/2024/"
+  - title: "2025年度"
+    url: "/2025/"
+  - title: "ロボット紹介"
+    url: "/robots/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
