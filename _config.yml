@@ -28,7 +28,7 @@ twitter_username: ma_king_core
 github_username:  CoRE-MA-KING
 
 # Build settings
-remote_theme: jekyll-theme-clean-blog
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 #theme: minima
 #plugins:
 #  - jekyll-feed
