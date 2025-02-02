@@ -7,8 +7,10 @@ permalink: /2025/
 
 # 広報活動
 ## miniNT新宿2025
-こちらに出展させていただきます。
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【miniNT新宿2025 開催のお知らせ】 <br><br>NTイベントのミニ版，miniNT新宿を開催させていただきます！<br>ご来場は無料です！！ <br>ものづくり好きな方，ぜひお越しください！！！<br><br>【日程】2025/2/1 11:00-17:00<br>【場所】新宿マルイ本館3Fマルチスペース<br>【出展者】<br>①やさしいロボット研究所（<a href="https://twitter.com/yasarobo?ref_src=twsrc%5Etfw">@yasarobo</a>）… <a href="https://t.co/gIcHMfOfzd">pic.twitter.com/gIcHMfOfzd</a></p>&mdash; みのんさん🦕Minori Furusawa (@minon_san) <a href="https://twitter.com/minon_san/status/1871511135637344491?ref_src=twsrc%5Etfw">December 24, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+アタッカーとストライダーの展示をしました。  
+また、ジュニアロボットチームの宣伝ポスターも展示させていただきました。  
+![](img//2025/miniNT新宿/miniNT新宿_booth1.png){:class="responsive-image"}
+![](img//2025/miniNT新宿/miniNT新宿_booth2.png){:class="responsive-image"}
 ## MEVIUS製作ブログ
 [アールティ移動型ロボットブログ](https://rt-net.jp/mobility/archives/category/developer/4%e8%b6%b3%e6%ad%a9%e8%a1%8c%e3%83%ad%e3%83%9c%e3%83%83%e3%83%88mevius%e8%a3%bd%e4%bd%9c)にて、ストライダーとして製作しているMEVIUSの製作記録をブログ連載しています。
 

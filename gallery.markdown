@@ -8,6 +8,8 @@ background: '/assets/images/pic4.JPG'
 
 
 ## 2025年大会
+### miniNT新宿
+![](img/2025/miniNT新宿/miniNT新宿_booth.png){:class="responsive-image"}
 ### 柏の葉ロボット競技大会
 ![](img/2025/kashiwanoha_event2.JPG){:class="responsive-image"}
 
