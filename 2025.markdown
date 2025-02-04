@@ -7,7 +7,7 @@ permalink: /2025/
 
 # 広報活動
 ## miniNT新宿2025
-アタッカーとストライダーの展示をしました。  
+アタッカーとストライダーの展示をしました。([ブログ](https://blog.mmaakkyyii.com/posts/post56/))  
 また、ジュニアロボットチームの宣伝ポスターも展示させていただきました。  
 ![](img//2025/miniNT新宿/miniNT新宿_booth1.png){:class="responsive-image"}
 ![](img//2025/miniNT新宿/miniNT新宿_booth2.png){:class="responsive-image"}
