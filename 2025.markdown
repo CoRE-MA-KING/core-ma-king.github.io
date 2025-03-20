@@ -6,6 +6,15 @@ permalink: /2025/
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
 # 広報活動
+## 東工大ロボット技術研究会LT
+現役生からOBまで集まる追い出しコンパ内で行われたステージ発表にてCoREの宣伝を行いました。
+![](img/2025/rogyLT.jpg){:class="responsive-image"}
+
+## ロボット好き集まれ！みんなでLT会
+秋葉原で行われたロボット好きが集まった[LT会](https://connpass.com/event/345697/)でCoREの宣伝を行いました。
+![](img/2025/roboLT.png){:class="responsive-image"}
+
+
 ## miniNT新宿2025
 アタッカーとストライダーの展示をしました。([ブログ](https://blog.mmaakkyyii.com/posts/post56/))  
 また、ジュニアロボットチームの宣伝ポスターも展示させていただきました。  
