@@ -15,4 +15,4 @@ MA-KING(メイキング)は[CoRE](https://core.scramble-robot.org/)出場のた�
 
 2025年度は[株式会社アールティ](https://rt-net.jp/)様よりストライダーの製作費用を提供していただいております。
 
-![](img/ma_king_logo.jpg)
+![](img/ma_king_logo.jpg){:class="responsive-image"}
