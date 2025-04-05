@@ -9,10 +9,15 @@ background: '/assets/images/pic3.png'
 
 ここではこれまで製作したロボットを紹介します。
 ## 2025年大会
-### MEVIUS
-MEVIUSは東大の河原塚先生が開発した[オープンソース](https://haraduka.github.io/mevius-hardware/)の4脚ロボットです。MA-KINGでも公開されている資料をもとに製作しています。
+### アタッカー
+内部装填機構を搭載し最大132枚のディスクを搭載可能。本番でも安定感のあるロボットでたくさんの撃破をすることができました。  
+本番では機材トラブルによって使えませんでしたが、相手のダメージパネルの認識をして自動照準をするための機能を実装しました。
+![](/img/2025/attacker.jpg){:class="responsive-image"}
 
-![](/img/2025/MEVIUS.jpg){:class="responsive-image"}
+### ストライダー
+MEVIUSは東大の河原塚先生が開発した[オープンソース](https://haraduka.github.io/mevius-hardware/)の4脚ロボットです。MA-KINGでも公開されている資料をもとに製作しています。
+競技用にハードウェアもアレンジを加えています。また学習部分は自分たちで行いました。
+![](/img/2025/MEVIUS.png){:class="responsive-image"}
 
 ## MFT, 柏の葉ミニ大会まで
 MFTに向けて製作し、柏の葉ミニ大会にも出場した機体です。

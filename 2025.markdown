@@ -2,8 +2,24 @@
 layout: page
 title: 2025年大会
 permalink: /2025/
+background: '/assets/images/img2025.jpg'
+
 ---
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+# 大会動画
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vLXvpPt3QME?si=oIIQlVL0Xuu9PDip" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# 戦績
+[総大将決定戦](https://www.youtube.com/live/vzNiVW0RnFI?si=g5Riy_SgQJG0G-tZ)にて1位になり、総大将チームに選出  
+[準決勝](https://www.youtube.com/live/LjHg0v858mM?si=DV9VBA1GZaidTSnW)では2-0でストレート勝ち  
+[決勝戦](https://www.youtube.com/live/vLXvpPt3QME?si=gzqvTOt3v4faQ5bA)では2-3で競技準優勝  
+提出書類と競技の結果を含めた評価によって
+<span style="color: red;">総合優勝</span>
+を受賞  
+![](img/2025/overall_champion.jpg){:class="responsive-image"}
+
+提出書類は[こちら](https://drive.google.com/drive/folders/1TDWqPKhT4xjJzIBdd784PWJrowjK0KSH)
 
 # 広報活動
 ## 東工大ロボット技術研究会LT
