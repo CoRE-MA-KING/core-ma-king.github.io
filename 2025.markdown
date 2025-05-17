@@ -8,7 +8,7 @@ background: '/assets/images/img2025.jpg'
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
 # 大会動画
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vLXvpPt3QME?si=oIIQlVL0Xuu9PDip" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" style="aspect-ratio: 560/315;" src="https://www.youtube.com/embed/vLXvpPt3QME?si=oIIQlVL0Xuu9PDip" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # 戦績
 [総大将決定戦](https://www.youtube.com/live/vzNiVW0RnFI?si=g5Riy_SgQJG0G-tZ)にて1位になり、総大将チームに選出  

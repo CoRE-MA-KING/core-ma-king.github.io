@@ -3,3 +3,8 @@
     height: auto;
     display: block;
   }
+
+  iframe{
+    width:100%;
+    aspect-ratio: 560/315;
+  }

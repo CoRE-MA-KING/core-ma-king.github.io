@@ -32,7 +32,7 @@ MFTに向けて製作し、柏の葉ミニ大会にも出場した機体です�
 基本的には最低限の移動と射出機構・調整機構のみを持たせたロボットです。  
 
 ![](/img/2024/machine2.JPG){:class="responsive-image"}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g99aZ9_2WnY?si=asZpj99N2D4BiKRR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/g99aZ9_2WnY?si=asZpj99N2D4BiKRR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 サスペンションによって段差によるダメージを受けないようにしていました。
