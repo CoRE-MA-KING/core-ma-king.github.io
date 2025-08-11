@@ -17,8 +17,8 @@ background: '/assets/images/img2025.jpg'
 提出書類と競技の結果を含めた評価によって
 <span style="color: red;">総合優勝</span>
 を受賞  
-![](img/2025/overall_champion.jpg){:class="responsive-image"}
-
+![](img/2025/overall_champion.jpg){:class="responsive-image"}  
+![](img/2025/Award_certificate.jpg){:class="responsive-image"}
 提出書類は[こちら](https://drive.google.com/drive/folders/1TDWqPKhT4xjJzIBdd784PWJrowjK0KSH)
 
 # 広報活動

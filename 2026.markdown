@@ -1,0 +1,21 @@
+---
+layout: page
+title: 2026年大会
+permalink: /2026/
+background: '/assets/images/now_making.jpg'
+
+---
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+# 広報活動
+## NT東京
+こちら出展予定です。新規開発のストライダーを展示予定です！
+## ロボスポフェスタ-in-あだち
+[ロボスポフェスタ-in-あだち](https://robotic-sports.org/festa2025-adachi/)というイベントにてMA-KINGのアタッカーの展示をさせていただきました。  
+ロボットに興味がある子供たちとその親御さんにロボットとCoRE,ジュニアロボットチームの紹介をしました。
+![](/img/2026/robofes.jpg){:class="responsive-image"}  
+
+## CoRE-2
+CoRE-2の大会でロボットの展示、デモンストレーションをさせていただきました。  
+ジュニアロボットチームの選手を中心にお互いに開発してきたロボットの説明などをさせてもらいました。  
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今日・明日開催のエンジニア選手権2部リーグ柏の葉カップでは、前回1部リーグ総合優勝のチーム・MA-KINGがロボット展示・デモ走行を実施してくださいます！<br><br>会場内での展示と、明日お昼頃にエキシビションマッチを開催予定！<br><br>配信はございませんので是非現地でご覧ください！<a href="https://twitter.com/hashtag/CoREjp?src=hash&amp;ref_src=twsrc%5Etfw">#CoREjp</a> <a href="https://t.co/EvbXs9hXF7">pic.twitter.com/EvbXs9hXF7</a></p>&mdash; The Championship of Robotics Engineers: CoRE (@Scramble_CoRE) <a href="https://twitter.com/Scramble_CoRE/status/1926139064584953975?ref_src=twsrc%5Etfw">May 24, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

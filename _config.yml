@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://core-ma-king.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ma_king_core
 github_username:  CoRE-MA-KING
+favicon_ico: /favicon.ico
 
 # Build settings
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
@@ -38,8 +39,12 @@ menu:
     url: "/2024/"
   - title: "2025年度"
     url: "/2025/"
+  - title: "2026年度"
+    url: "/2026/"
   - title: "ロボット紹介"
     url: "/robots/"
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
