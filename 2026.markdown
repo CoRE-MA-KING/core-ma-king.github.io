@@ -9,7 +9,15 @@ background: '/assets/images/now_making.jpg'
 
 # 広報活動
 ## NT東京
-こちら出展予定です。新規開発のストライダーを展示予定です！
+[NT東京](https://nt-tokyo.org/exhibitor/2025/19)にて開発中のストライダーの展示を行いました。一脚の膝部分が出来ていたので屈伸動作の展示しました。
+![](/img/2026/NT_Tokyo2.jpg){:class="responsive-image"}  
+![](/img/2026/NT_Tokyo.jpg){:class="responsive-image"}  
+## 第43回日本ロボット学会学術講演会
+### 口頭発表
+「オープンハードウェアMEVIUSを活用した2次開発とオープンな開発のための取り組み」というタイトルで2025年大会に向けて開発を行っていたMEVIUSの開発について発表しました。内容的にはオープンソースハードウエアの活用についての発表でしたが、競技会に向けた開発という文脈でCoREについて軽く触れました。
+### このロボットがすごい2025
+日本ロボット学会のオープンフォーラムで実施されたこの[ロボットがすごい](https://konorobo.main.jp/konorobo2025/)にてMA-KINGの活動について発表しました。
+![](/img/2026/konorobo2025.jpg){:class="responsive-image"}  
 ## ロボスポフェスタ-in-あだち
 [ロボスポフェスタ-in-あだち](https://robotic-sports.org/festa2025-adachi/)というイベントにてMA-KINGのアタッカーの展示をさせていただきました。  
 ロボットに興味がある子供たちとその親御さんにロボットとCoRE,ジュニアロボットチームの紹介をしました。
