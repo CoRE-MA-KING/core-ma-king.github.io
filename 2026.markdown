@@ -8,6 +8,11 @@ background: '/assets/images/now_making.jpg'
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
 # 広報活動
+## 国際ロボット展
+2025国際ロボット展においてScrambleが実施した[CoREミニ大会](https://scramble-robot.org/2025/12/03/1408/)に参加しました。  
+CoRE一部リーグで戦ったことがあるチームだけでなく、二部リーグに参加しているジュニアロボットチームの選手の子たちとも一緒に戦ったり対戦することができました。
+![](/img/2026/iREX2025.jpg){:class="responsive-image"}  
+
 ## NT東京
 [NT東京](https://nt-tokyo.org/exhibitor/2025/19)にて開発中のストライダーの展示を行いました。一脚の膝部分が出来ていたので屈伸動作の展示しました。
 ![](/img/2026/NT_Tokyo2.jpg){:class="responsive-image"}  
