@@ -2,10 +2,25 @@
 layout: page
 title: 2026年大会
 permalink: /2026/
-background: '/assets/images/now_making.jpg'
+background: '/assets/images/img2026.jpeg'
 
 ---
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+# 大会動画
+<iframe width="100%" style="aspect-ratio: 560/315;" src="https://www.youtube.com/embed/_JowkqdF2Yw?si=w8olFYATQQy_gRp9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# 戦績
+[ビデオ審査](https://core.scramble-robot.org/2026/03/10/7794/)にて1位獲得  
+[予選](https://www.youtube.com/watch?v=kCrH3Ln40DM)にて2勝1敗で2位通過  
+[準決勝](https://www.youtube.com/watch?v=4EWAgB4oUgk)にて1勝1敗1分RPコンテナ数判定により勝利  
+[決勝戦](https://www.youtube.com/watch?v=_JowkqdF2Yw)2勝1敗1分で競技優勝達成
+
+提出書類と競技の結果を含めた評価によって
+<span style="color: red;">総合優勝</span>
+を受賞  
+![](img/2026/overall_champion.jpg){:class="responsive-image"}  
+
 
 # 広報活動
 ## 国際ロボット展

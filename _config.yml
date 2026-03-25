@@ -35,12 +35,14 @@ remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 #  - jekyll-feed
 
 menu:
-  - title: "2024年度"
+  - title: "2024年"
     url: "/2024/"
-  - title: "2025年度"
+  - title: "2025年"
     url: "/2025/"
-  - title: "2026年度"
+  - title: "2026年"
     url: "/2026/"
+  - title: "2026年詳細"
+    url: "/2026_explanation/"
   - title: "ロボット紹介"
     url: "/robots/"
 

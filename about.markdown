@@ -6,7 +6,7 @@ background: '/assets/images/mkng.jpg'
 ---
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
-MA-KING(メイキング)は[CoRE](https://core.scramble-robot.org/)出場のために結成された社会人チームです。公式サイトでの紹介ページは[こちら](https://core.scramble-robot.org/player_team/making/)
+MA-KING(メイキング)は[CoRE](https://core.scramble-robot.org/)出場のために結成されたチームです。公式サイトでの紹介ページは[こちら](https://core.scramble-robot.org/player_team/making/)
 
 
 進捗は[#CoREjp_MAKING](https://x.com/search?q=%23CoREjp_MAKING)や[MA-KING](https://x.com/ma_king_core)ツイッターにて発信しています。  

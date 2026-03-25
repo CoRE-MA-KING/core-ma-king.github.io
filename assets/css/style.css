@@ -8,3 +8,44 @@
     width:100%;
     aspect-ratio: 560/315;
   }
+
+#mainNav .dropdown-menu {
+  margin-top: 0.5rem;
+  border: 0;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.75rem 2rem rgba(0, 0, 0, 0.15);
+}
+
+#mainNav .dropdown-item {
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+}
+
+#mainNav .dropdown-item:hover,
+#mainNav .dropdown-item:focus {
+  background-color: rgba(0, 0, 0, 0.06);
+}
+
+@media (min-width: 992px) {
+  #mainNav .nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+  }
+
+  #mainNav .nav-item.dropdown .dropdown-toggle::after {
+    margin-left: 0.45rem;
+  }
+}
+
+@media (max-width: 991.98px) {
+  #mainNav .dropdown-menu {
+    padding-left: 0.75rem;
+    background: transparent;
+    box-shadow: none;
+  }
+
+  #mainNav .dropdown-item {
+    color: inherit;
+    padding-left: 0;
+    text-transform: none;
+  }
+}
