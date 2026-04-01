@@ -6,6 +6,11 @@ background: '/assets/images/pic4.JPG'
 ---
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
+## 2026年大会
+### 大会本番
+![](img/2026/2026robots.jpg){:class="responsive-image"}
+![](img/2026/attacker.jpg){:class="responsive-image"}
+![](img/2026/strider2.jpg){:class="responsive-image"}
 
 ## 2025年大会
 ### 大会本番
