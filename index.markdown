@@ -14,6 +14,7 @@ background: '/assets/images/core2025_making.JPG'
 [2024年度大会](/2024/)に初参加し、[2025年度大会](/2025/)では[大会初の総合優勝](https://core.scramble-robot.org/2025/05/08/7066/)に選出されました！
 [2026年度大会](/2026/)では競技優勝と総合優勝の同時達成をすることができました！
 
+{: align="center"}
 ![](img/ma_king_logo.jpg){:class="responsive-image"}
 
-<iframe width="100%" src="https://www.youtube.com/embed/LzTPTKfnZS8?si=H-z6HXShC_W5EHrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/B49hX71MaIU?si=dZFvhtfCRrBF8pC5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

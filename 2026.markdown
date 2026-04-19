@@ -14,7 +14,8 @@ background: '/assets/images/img2026.jpeg'
 [ビデオ審査](https://core.scramble-robot.org/2026/03/10/7794/)にて1位獲得  
 [予選](https://www.youtube.com/watch?v=kCrH3Ln40DM)にて2勝1敗で2位通過  
 [準決勝](https://www.youtube.com/watch?v=4EWAgB4oUgk)にて1勝1敗1分RPコンテナ数判定により勝利  
-[決勝戦](https://www.youtube.com/watch?v=_JowkqdF2Yw)2勝1敗1分で競技優勝達成
+[決勝戦](https://www.youtube.com/watch?v=_JowkqdF2Yw)2勝1敗1分で競技優勝達成  
+[表彰評価審査](https://core.scramble-robot.org/2026/04/08/8061/)により、革新的技術賞・改善賞・優秀シューター賞を受賞  
 
 提出書類と競技の結果を含めた評価によって
 <span style="color: red;">総合優勝</span>

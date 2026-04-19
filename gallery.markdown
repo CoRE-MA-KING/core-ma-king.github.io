@@ -10,6 +10,7 @@ background: '/assets/images/pic4.JPG'
 ### 大会本番
 ![](img/2026/2026robots.jpg){:class="responsive-image"}
 ![](img/2026/attacker.jpg){:class="responsive-image"}
+![](img/2026/img2026_detail.jpg){:class="responsive-image"}
 ![](img/2026/strider2.jpg){:class="responsive-image"}
 
 ## 2025年大会
